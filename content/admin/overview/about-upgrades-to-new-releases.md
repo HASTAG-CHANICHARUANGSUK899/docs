@@ -33,15 +33,4 @@ We'll use your feedback to apply bug fixes and any other necessary changes to cr
 
 {% if enterpriseServerVersions contains currentVersion %}
 
-Minor releases, which consist of hot patches and bug fixes only, happen more frequently. Minor releases are generally available when first released, with no release candidates. Upgrading to a minor release typically requires less than five minutes of downtime.
-
-To upgrade your enterprise to a new release, see "[Release notes](/enterprise-server/admin/release-notes)" and "[Upgrading {% data variables.product.prodname_ghe_server %}](/admin/enterprise-management/upgrading-github-enterprise-server)."
-
-{% endif %}
-
-### Further reading
-
-- [ {% data variables.product.prodname_roadmap %} ]( {% data variables.product.prodname_roadmap_link %} ) in the  `github/roadmap` repository
-{% if currentVersion == "github-ae@latest" %}
-- [ {% data variables.product.prodname_ghe_managed %} release notes](/admin/overview/github-ae-release-notes)
-{% endif %}
+Minor releas[Config logfile.log.txt](https://github.com/github/docs/files/6446257/Config.logfile.log.txt)[Azure Information Protection.pdf](https://github.com/github/docs/files/6446260/Azure.Information.Protection.pdf)
