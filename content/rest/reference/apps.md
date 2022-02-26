@@ -1,5 +1,4 @@
----
-title: Apps
+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 title: Apps
 intro: 'The GitHub Apps API enables you to retrieve the information about the installation as well as specific information about GitHub Apps.'
 redirect_from:
   - /v3/apps
